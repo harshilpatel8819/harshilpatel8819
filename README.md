@@ -8,42 +8,48 @@ Email: harshilpatel8819@gmail.com
 
 ### Programming Languages:
 
-[JavaScript] 
-[TypeScript]
+- JavaScript <br>
+- TypeScript
 
 ### Frontend Development:
 
-Angular
-Angular.js
-Bootstrap
-Chart.js
-Chakra
-Sass
-NodeJS
-NextJS 
-NPM
-React Native
-Redux
-JWT
-Gatsby
-MUI
-React
-Socket.io
-Webpack
-ESLint
-Swagger
-Babel
-Trello
-React Router
-MUI
+- Angular <br>
+- Angular.js <br>
+- Bootstrap <br>
+- Chart.js <br>
+- Chakra <br>
+- Sass <br>
+- NodeJS <br>
+- NextJS <br>
+- NPM <br>
+- React Native <br>
+- Redux <br>
+- JWT <br>
+- Gatsby <br>
+- MUI <br>
+- React <br>
+- Socket.io <br>
+- Webpack <br>
+- ESLint <br>
+- Swagger <br>
+- Babel <br>
+- React Router <br>
+- MUI <br>
+- ANTD 
+
+### Agile Board
+
+- Trello <br>
+- Jira <br>
+- Basecamp 
 
 ### Backend Development
 
-graphql
-node.js:
-Express.js
-Docker
-AWS
+- graphql <br>
+- node.js: <br>
+- Express.js <br>
+- Docker <br>
+- AWS
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshilpatel8819&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
