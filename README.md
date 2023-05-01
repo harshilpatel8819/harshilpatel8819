@@ -27,7 +27,7 @@ Hi there! 👋 My name is Harshil Patel, and I'm a React developer with 6+ years
 ### Backend Development
 
 <pre>
-- graphql         - node.js             - Express.js <br>
+- graphql         - node.js             - Express.js
 - Docker          - AWS
 </pre>
 
