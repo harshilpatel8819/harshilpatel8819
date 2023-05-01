@@ -12,10 +12,10 @@ Hi there! 👋 My name is Harshil Patel, and I'm a React developer with 6+ years
 ### Frontend Development:
 
 <pre>
-👉🏻 Angular         👉🏻 Angular.js          👉🏻 Bootstrap         👉🏻 Chart.js          👉🏻 Chakra          👉🏻 Sass
+👉🏻 Angular.js      👉🏻 ANTD                👉🏻 Bootstrap         👉🏻 Chart.js          👉🏻 Chakra          👉🏻 Sass
 👉🏻 NodeJS          👉🏻 NextJS              👉🏻 NPM               👉🏻 React Native      👉🏻 Redux           👉🏻 JWT
 👉🏻 Gatsby          👉🏻 MUI                 👉🏻 React             👉🏻 Socket.io         👉🏻 Webpack         👉🏻 ESLint
-👉🏻 Swagger         👉🏻 Babel               👉🏻 React Router      👉🏻 MUI               👉🏻 ANTD 
+👉🏻 Swagger         👉🏻 Babel               👉🏻 React Router      👉🏻 MUI               
 </pre>
 
 ### Agile Board
