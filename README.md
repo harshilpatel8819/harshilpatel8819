@@ -28,7 +28,8 @@ Hi there! 👋 My name is Harshil Patel, and I'm a React developer with 6+ years
 
 <pre>
 👉🏻 graphql         👉🏻 node.js             👉🏻 Express.js
-👉🏻 Docker          👉🏻 AWS
+👉🏻 Docker          👉🏻 AWS                  👉🏻 PHP  
+👉🏻 Laravel
 </pre>
 
 # 🫵 More About Me:
@@ -38,8 +39,3 @@ Over the years, I've worked on a variety of projects that have allowed me to dev
 <pre>
 Email: harshilpatel8819@gmail.com
 </pre>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshilpatel8819&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshilpatel8819&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilpatel8819&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
